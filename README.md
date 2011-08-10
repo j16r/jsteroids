@@ -1,5 +1,7 @@
 # jsteroids
 
+Play it live [here](http://jsteroids.heroku.com/).
+
 ## Background
 While at Railscamp #8, I decided it was about time I learnt a bit of basic javascript with some jQuery and Raphael. So I ended up making a very basic asteroids simulation in a couple of hours.
 
