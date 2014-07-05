@@ -1,4 +1,12 @@
-source :gemcutter
+source 'https://rubygems.org'
 
-gem 'sinatra'
+ruby '2.1.1'
+
 gem 'haml'
+gem 'sass'
+gem 'sinatra'
+gem 'unicorn'
+
+group :development do
+  gem 'foreman'
+end
